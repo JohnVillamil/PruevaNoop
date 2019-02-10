@@ -9,10 +9,20 @@
       img {
         max-width: 100%;
         vertical-alding: top;
+        /*display: none;*/
+      }
+      img#responsive {
+        display: none;
+      }
+      @medie screen and (max-width: 768px) {
+        img#responsive {
+          display: block;
+        }
       }
     </style>
   </head>
   <body>
+    <img src="beach2.jpg" alt="" id="responsive">
     <img src="header.jpg" alt="">
     <img src="hero.png" alt="">
     <img src="rock.jpg" alt="">
