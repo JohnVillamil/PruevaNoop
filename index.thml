@@ -23,9 +23,7 @@
   </head>
   <body>
     <img src="beach2.jpg" alt="" id="responsive">
-    <img src="header.jpg" alt="">
-    <img src="hero.png" alt="">
-    <img src="rock.jpg" alt="">
+    <img src="rock2.jpg" alt="">
   </body>
 
 </html>
