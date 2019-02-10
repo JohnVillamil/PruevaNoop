@@ -2,11 +2,11 @@
   <head>
     <title>Mi_Primera_Pag</title>
     <style media="screen">
-      body{
+      body {
         margin: 0;
-
+        border: 10px solid #192b36;
       }
-      img{
+      img {
         max-width: 100%;
         vertical-alding: top;
       }
