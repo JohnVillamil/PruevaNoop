@@ -13,7 +13,8 @@
     </style>
   </head>
   <body>
-    <<img src="header.jpg" alt="">
+    <img src="header.jpg" alt="">
+    <img src="hero.png" alt="">
   </body>
 
 </html>
