@@ -24,6 +24,7 @@
   <body>
     <img src="beach2.jpg" alt="" id="responsive">
     <img src="rock2.jpg" alt="">
+    <img src="footer.png" alt="">
   </body>
 
 </html>
